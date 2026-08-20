@@ -1,0 +1,38 @@
+# Python and notebook caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Local environments
+.venv/
+venv/
+env/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Course-distributed or generated audio/data
+*.wav
+*.mp3
+*.flac
+*.aiff
+*.aif
+*.ogg
+data/
+
+# Course exports and grading artifacts
+*.pdf
+*.html
+gradescope*/
+rubric*/
+submission*/
+feedback*/
+
+# Generated figures and scratch outputs
+figures/
+outputs/
+scratch/
